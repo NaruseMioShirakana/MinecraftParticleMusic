@@ -2,15 +2,7 @@
 
 ## 介绍
 ---
-### &emsp;项目名：我的世界粒子特效Midi播放器（粒子特效指令音乐）<br>
-### &emsp;作者：训练有素的藤原白叶（藤原白葉）
-
 ### &emsp;测试视频地址：  [ **演示1** ](https://www.bilibili.com/video/BV11y4y1L7jT)      [ **演示2** ](https://www.bilibili.com/video/BV1uT4y1P7CX)
-
-### &emsp;软件架构：
-&emsp;&emsp;&emsp;&emsp;**1.**  仅包含.h头文件<br>
-&emsp;&emsp;&emsp;&emsp;**2.**  需要自己创建C++（Cpp）文件并使用主函数调用头文件中函数<br>
-&emsp;&emsp;&emsp;&emsp;**3.**  不存在.exe可执行文件（未来可能会加入）<br>
 
 ### &emsp;关于
 &emsp;&emsp;&emsp;&emsp;MPMP是一个用于制作Minecraft原版指令特效粒子的工具。<br>
@@ -22,7 +14,7 @@
 ---
 ### &emsp;安装：
 #### &emsp;&emsp;1.  安装C++：
-&emsp;&emsp;&emsp;&emsp; **i)：**   安装相关IDE，如&emsp;&emsp;&emsp;[DEVCPP(外部下载站，请注意计算机安全)](https://sourceforge.net/projects/orwelldevcpp/) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[VisualStudio(官网下载)](https://visualstudio.microsoft.com/zh-hans/)
+&emsp;&emsp;&emsp;&emsp; **i)：**   配置编译器环境，也可以安装相关IDE，如&emsp;&emsp;&emsp;[DEVCPP(外部下载站，请注意计算机安全)](https://sourceforge.net/projects/orwelldevcpp/) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[VisualStudio(官网下载)](https://visualstudio.microsoft.com/zh-hans/)
 #### &emsp;&emsp;2.  安装该项目：
 &emsp;&emsp;&emsp;&emsp; **i）：** 点击本页面克隆/下载按钮，并点击下载ZIP<br>
 &emsp;&emsp;&emsp;&emsp; **ii）：** 下载发行版中MC粒子特效Midi播放器并解压<br>
@@ -47,7 +39,7 @@
   然后调用其中的XMode函数即可
 
 
-## 将要做的
+## 将要做的（删除线即为已完成）
 ---
 ### &emsp;更多粒子特效：
 #### &emsp;&emsp;基础线条：
@@ -72,8 +64,7 @@
 &emsp;&emsp;&emsp;&emsp;<del>螺旋线</del><br>
 &emsp;&emsp;&emsp;&emsp;<del>星星</del><br>
 &emsp;&emsp;&emsp;&emsp;<del>心形线</del><br>
-&emsp;&emsp;&emsp;&emsp;<del>蝴蝶（翅膀会飞，会动的）</del><br>
-&emsp;&emsp;&emsp;&emsp;米国和霓虹的城市名<br>
+&emsp;&emsp;&emsp;&emsp;<del>蝴蝶（扑打翅膀切平滑转向）</del><br>
 &emsp;&emsp;&emsp;&emsp;爆炸特效<br>
 &emsp;&emsp;&emsp;&emsp;各种花里胡哨的特效<br>
 
@@ -87,6 +78,4 @@
 ### &emsp;setblock：
 &emsp;&emsp;&emsp;&emsp;<del>在每一个音符处放置方块</del><br>
 ### &emsp;可视化界面：
-&emsp;&emsp;&emsp;&emsp;.exe可执行程序，可视化界面操作<br>
-### &emsp;基岩版适配：
-&emsp;&emsp;&emsp;&emsp;基岩版适配<br>
+&emsp;&emsp;&emsp;&emsp;.可执行程序，可视化界面操作<br>
